@@ -1,1 +1,2 @@
-select * from <database>.<table>;
+select * from <database>.<table>
+limit 100;
